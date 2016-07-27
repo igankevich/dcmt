@@ -33,7 +33,7 @@ developing applications that use %{name}.
 
 
 %prep
-%setup -n %{name}%{version}
+%autosetup
 
 
 %build
